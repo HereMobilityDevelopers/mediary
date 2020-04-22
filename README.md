@@ -71,3 +71,5 @@ yourClientWithInterceptor := mediary.Init().
     AddInterceptors(your interceptor).
     Build()
 ```
+
+Read [this](https://github.com/HereMobilityDevelopers/mediary/wiki/Reasoning) for more information
