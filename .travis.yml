@@ -1,2 +1,8 @@
 language: go
 
+before_install:
+- go install github.com/mattn/goveralls
+
+script:
+- make .travis
+
