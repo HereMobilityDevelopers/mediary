@@ -1,4 +1,9 @@
 # mediary
+
+[![Go Report Card](https://goreportcard.com/badge/github.com/HereMobilityDevelopers/mediary)](https://goreportcard.com/report/github.com/HereMobilityDevelopers/mediary)
+[![Coverage Status](https://coveralls.io/repos/github/HereMobilityDevelopers/mediary/badge.svg?branch=master)](https://coveralls.io/github/HereMobilityDevelopers/mediary?branch=master)
+[![Build Status](https://travis-ci.com/HereMobilityDevelopers/mediary.svg?branch=master)](https://travis-ci.com/HereMobilityDevelopers/mediary)
+
 Add interceptors to http.Client and you will be able to
 * Dump request and/or response to a `Log`
 * Alter your requests before they are sent or responses before they are returned
